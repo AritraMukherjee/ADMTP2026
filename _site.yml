@@ -1,21 +1,21 @@
-name: "ADMTP 2025"
+name: "ADMTP 2026"
 output_dir: "."
 
 navbar:
-  title: "ADMTP 2025"
+  title: "ADMTP 2026"
   left:
     - text: "Home"
       href: index.html
-    - text: "Scientific program"
-      href: ADMTP_2025_program.pdf      
+    - text: "Keynote Speakers"
+      href: KeynoteSpeakers.html
+    - text: "Committees"
+      href: ScientificOrganisingCommittee.html
     - text: "Short course"
       href: course.html
     - text: "Workshop venue"
       href: venue.html
     - text: "Workshop info"
       menu:
-      - text: "Accommmodation"
-        href: accommodation.html
       - text: "Abstract submission"
         href: abstract.html
       - text: "Registration"

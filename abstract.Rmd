@@ -5,42 +5,46 @@ output:
     theme: cosmo
 ---
 
-<!-- <style type="text/css"> -->
-
-<!-- body { -->
-
-<!--  background-image: url("coming_soon.jpg"); -->
-
-<!--  background-position: center top; -->
-
-<!--  background-size: 100% auto; -->
-
-<!-- } -->
-
-<!-- </style>  -->
-
-```{=html}
 <style type="text/css">
+body {
+  background-image: url("coming_soon.jpg");
+  background-position: center top;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 h1.title {
   font-size: 36px;
   color: DarkRed;
   text-align: center;
 }
+
+/* Center the GIF */
+.centered-gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 </style>
-```
-<!-- ![](images/coming_soon3.gif){width=100%} -->
 
-## Deadline
+<!-- GIF with class for styling -->
+<img src="images/coming_soon3.gif" class="centered-gif" alt="Coming Soon GIF">
 
-<hr>
 
-Abstract submissions are now closed.
 
-<br>
+<!--## Deadline-->
 
-## Topics
+<!--hr-->
 
-<hr>
+<!--Abstract submissions are now closed. -->
+
+<!--br-->
+
+<!--## Topics-->
+
+<!--hr>
 
 <ol>
 
@@ -64,5 +68,5 @@ Abstract submissions are now closed.
 
 <em> What are the implications on the FWER and the design overall? </em>
 
-</ol>
+</ol-->
 

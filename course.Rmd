@@ -1,23 +1,10 @@
 ---
-title: "Bayesian Adaptive Trials Short Course"
+title: "Short Courses"
 output:
   html_document:
     theme: cosmo
 ---
 
-<!-- <style type="text/css"> -->
-
-<!-- body { -->
-
-<!--  background-image: url("coming_soon.jpg"); -->
-
-<!--  background-position: center top; -->
-
-<!--  background-size: 100% auto; -->
-
-<!-- } -->
-
-<!-- </style>  -->
 
 ```{=html}
 <style type="text/css">
@@ -29,30 +16,41 @@ h1.title {
 </style>
 ```
 
-<br/>
 
-**24th-25th February 2025** <br/>
+<h3 style="color: DarkRed; text-align: left;">
+Course 1: Practitioner’s View of Adaptive Designs
+</h3>
 
-**Location**: University of Regensburg, Faculty of Informatics and Data Science, Bajuwarenstraße 4, 93053 Regensburg, Germany
+**Course tutors**: [Prof. Tim Friede](https://medstat.umg.eu/en/friede/) (Department of Medical Statistics, University of Gottingen), [Dr. Hiya Banerjee](https://www.linkedin.com/in/hiya-b-22397514/)(Eli Lilly) <br/>
+
+**Time**: 1st June 2026, 9 am- 12:30 pm <br/>
+
+**Location**: Stephenson Building, Newcastle University
 
 
-**Course tutors**: [Prof Thomas Jaki](https://www.mrc-bsu.cam.ac.uk/staff/thomas-jaki) (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), [Dr Pavel Mozgunov](https://www.mrc-bsu.cam.ac.uk/staff/pavel-mozgunov) (MRC Biostatistics Unit, University of Cambridge) and [Dr Libby Daniells](https://www.mrc-bsu.cam.ac.uk/staff/libby-daniells) (MRC Biostatistics Unit, University of Cambridge) <br/>
+**Course summary**: TBA.
 
-**Course summary**: Bayesian methods allow prior information to be formally incorporated and updated when new data become available and while such approaches are now routinely used in dose-finding trials, their use for other trials is still rare. This two-day short course will provide an introduction to Bayesian methods with applications to clinical trials. <br/>
 
-The first day will introduce the fundamentals of Bayesian statistics and discuss a Bayesian view to trial design. Strategies for determining prior distributions will be discussed and the practical implementation of Bayesian designs in statistical software illustrated.<br/>
 
-On the second day, adaptive elements that allow modification to the design based on accruing data will be added to Bayesian clinical trials. Two special topics of (i) using historical control data, and (ii) precision medicine trials will also be covered. <br/>
+<h3 style="color: DarkRed; text-align: left;">
+Course 2: Designing better trials: Advanced randomization methods for modern clinical research 
+</h3>
 
-The course will be a mix of lectures and practical session during which the attendees will apply learned methods in problems motivated by real clinical trials. <br/>
+**Course Tutors**: Randomisation Working Group lead by [Alex Sverdlov](https://www.linkedin.com/in/alex-sverdlov-a403167/) (Novartis)
+
+**Time**: 1st June 2026, 2 pm- 5:30 pm <br/>
+
+**Location**: Stephenson Building, Newcastle University
+
+
+**Course summary**: Modern clinical trials increasingly demand sophisticated randomization methods to efficiently investigate multiple treatments across diverse patient populations while adhering to stringent regulatory requirements. This intensive one-day short course offers hands-on training in state-of-the-art restricted randomization designs, equipping participants with the practical skills and conceptual understanding necessary for designing and implementing robust clinical trials. We will delve into various restricted randomization techniques, including those crucial for multi-arm and platform trials, clearly defining their mechanisms and demonstrating their advantages over traditional methods like permuted block randomization. A substantial part of the course will introduce Response-Adaptive Randomization (RAR) designs, focusing on their suitable applications and, critically, current regulatory perspectives and pathways for their acceptance, while acknowledging the time constraints for extensive hands-on simulation. Participants will gain practical experience through computer code examples using established statistical software (e.g., randomizeR; Incertus.jl) and case studies, empowering them to select and implement fit-for-purpose randomization methods to achieve higher statistical efficiency and more ethical clinical trials. For more details see [here](https://admtp.github.io/ADMTP2026/Short Course 2_AS).
 
 **Course fees**
 <ul>
-  <li>Industry/Commercial Registration: €600</li>
-  <li>Academic/Public sector/Charity Registration: €450</li>
-  <li>Postgraduate Student Registration: €250</li>
+  <li> Registration Fees for a single course: €175   </li>
+  <li> Registration Fees for both courses: €300   </li>
 </ul>
 
 **Registration**: 
-Registration for the short course is now closed.
+Registration for the short course will open with workshop registration.
  

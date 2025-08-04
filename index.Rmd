@@ -1,6 +1,6 @@
 ---
-title: "ADMTP Workshop 2025"
-subtitle: "Adaptive Designs and Multiple Testing Procedures Workshop <br> 26th - 27th February 2025"
+title: "ADMTP Workshop 2026"
+subtitle: "Adaptive Designs and Multiple Testing Procedures Workshop <br> 1st - 3rd June 2026"
 output:
   html_document:
     theme: cosmo
@@ -53,7 +53,7 @@ h1.title {
 
 ```{=html}
 <head>
-<title>ADMTP2025</title>
+<title>ADMTP2026</title>
 </head>
 ```
 
@@ -64,7 +64,7 @@ objpath <- file.path(getwd(),"images/carousel_home")
 slickR::slickR(
     list.files(objpath,full.names = TRUE,pattern = 'jpg'),
     height = 250,
-    width = '95%')
+    width = '100%')
 ```
 
 
@@ -72,41 +72,25 @@ slickR::slickR(
 
 We are delighted to announce the next annual workshop of the joint working group “Adaptive Designs and Multiple Testing Procedures” of the German (DR) and the Austrian-Swiss (ROeS) Regions of the International Biometric Society (IBS).
 
-**Where:** Regensburg, Germany (in-person only).
+**Where:** Newcastle upon Tyne (in-person only).
 
-**When:** The workshop will run from 26th-27th February 2025.
+**When:** The workshop will run from 2nd to 3rd June 2026 with pre-conference courses on 1st June 2026.
 
 
-**Short course:** There will be a pre-workshop short course on *Bayesian Adaptive Trials* from 24th-25th February 2025, see [**here**](https://admtp.github.io/ADMTP2025/course.html). 
+**Short course:** There will be pre-workshop short courses on *Practitioner’s View of Adaptive Designs* and *Designing better trials: Advanced randomization methods for modern clinical research* on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). 
 
-**Abstract submission:** Abstract submissions are now closed.
+**Abstract submission:** Abstract submissions will start from mid September 2025.
 
-**Registration:** Registration is now closed.
+**Registration:** Registration will open from January 5, 2026.
 
-**Scientific and Organising Committee:** David Robertson (MRC Biostatistics Unit, University of Cambridge), Thomas Jaki (University of Regensburg and MRC Biostatistics Unit, University of Cambridge), Cornelia Kunz (Boehringer-Ingelheim), Marta Bofill Roig (Universitat Politècnica de Catalunya - BarcelonaTech).
+**Scientific Committee:** Rahul Bhattacharya (Department of Statistics, University of Calcutta), Satrajit Roychoudhury (Pfizer), Alex Sverdlov (Novartis), Hongjian Zhu (Systimmune).
 
-**Contact:** If you have any questions about the workshop, please e-mail [David Robertson](mailto:david.robertson@mrc-bsu.cam.ac.uk).
+**Organising Committee:** Aritra Mukherjee (PHSI, Newcastle University) , Ayon Mukherjee (Eli Lilly), James Wason (PHSI, Newcastle University).
+
+**Contact:** If you have any questions about the workshop, please e-mail [Aritra Mukherjee](mailto:aritra.mukherjee@ncl.ac.uk).
 
 
 $$\\[0.1cm]$$
-
-### Sponsors
-
-<hr>
-
-We gratefully acknowledge sponsorship from [**Instats**](https://instats.org/?utm_source=ADMTP-2025)
-
-<!-- ## <span style="color: #D4AF37;"><b>Gold Sponsors</b></span> -->
-
-<!-- <hr> -->
-
-```{=html}
-    <div class="sponsor">
-        <a href="https://instats.org/?utm_source=ADMTP-2025"; target=_blank">
-        <img src="logos/instats.png" alt="instats.org" width="250">
-        </a>
-    </div>
-```
 
 ### Organisers
 
@@ -125,15 +109,11 @@ We gratefully acknowledge sponsorship from [**Instats**](https://instats.org/?ut
         </a>
     </div>
     <div class="sponsor">
-        <a href="https://www.uni-regensburg.de/en"; target=_blank">
-        <img src="logos/UR.png" alt="UR" width="250">
+        <a href="https://www.ncl.ac.uk/"; target=_blank">
+        <img src="logos/UN.png" alt="UN" width="150">
         </a>
     </div>
-    <div class="sponsor">
-        <a href="https://www.uni-regensburg.de/informatics-data-science/faculty/home/index.html"; target=_blank">
-        <img src="logos/FIDS.png" alt="FIDS" width="120">
-        </a>
-    </div>
+    
 </div>
 ```
 

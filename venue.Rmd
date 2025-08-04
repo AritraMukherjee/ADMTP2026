@@ -42,10 +42,12 @@ h1.title {
 <br/>
 
 <b>
-Room H401<br>
-Faculty of Informatics and Data Science<br>
-Bajuwarenstraße 4<br>
-93053 Regensburg<br>
-Germany
+
+Urban Sciences Building<br>
+1 Science Square<br>
+Newcastle Helix<br>
+Newcastle upon Tyne<br>
+United Kingdom <br>
+NE4 5TG
 </b>
  

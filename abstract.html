@@ -13,7 +13,7 @@
 
 <title>Abstract submission</title>
 
-<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -238,7 +238,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">ADMTP 2025</a>
+      <a class="navbar-brand" href="index.html">ADMTP 2026</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -246,7 +246,10 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="ADMTP_2025_program.pdf">Scientific program</a>
+  <a href="KeynoteSpeakers.html">Keynote Speakers</a>
+</li>
+<li>
+  <a href="ScientificOrganisingCommittee.html">Committees</a>
 </li>
 <li>
   <a href="course.html">Short course</a>
@@ -261,9 +264,6 @@ $(document).ready(function () {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="accommodation.html">Accommmodation</a>
-    </li>
     <li>
       <a href="abstract.html">Abstract submission</a>
     </li>
@@ -292,75 +292,61 @@ $(document).ready(function () {
 </div>
 
 
-<!-- <style type="text/css"> -->
-<!-- body { -->
-<!--  background-image: url("coming_soon.jpg"); -->
-<!--  background-position: center top; -->
-<!--  background-size: 100% auto; -->
-<!-- } -->
-<!-- </style>  -->
 <style type="text/css">
+body {
+  background-image: url("coming_soon.jpg");
+  background-position: center top;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 h1.title {
   font-size: 36px;
   color: DarkRed;
   text-align: center;
 }
+
+/* Center the GIF */
+.centered-gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 </style>
-<!-- ![](images/coming_soon3.gif){width=100%} -->
-<div id="deadline" class="section level2">
-<h2>Deadline</h2>
-<hr>
-<p>Abstract submissions are now closed.</p>
-<p><br></p>
-</div>
-<div id="topics" class="section level2">
-<h2>Topics</h2>
-<hr>
+<!-- GIF with class for styling -->
+<p><img src="images/coming_soon3.gif" class="centered-gif" alt="Coming Soon GIF"></p>
+<!--## Deadline-->
+<!--hr-->
+<!--Abstract submissions are now closed. -->
+<!--br-->
+<!--## Topics-->
+<!--hr>
+
 <ol>
-<li>
-<b>Research/methodology</b> – statistical methodology and their
-application to adaptive designs for clinical trials, including multiple
-testing procedures. We particularly welcome contributions on the topics
-of a) early phase trials and b) software for adaptive designs.
-</li>
-<p><br></p>
-<li>
-<b>Real-life case studies</b> – practical examples of the challenges of
-implementing adaptive designs in real-life. This could include issues
-around communicating the design and results of adaptive designs to both
-clinicians and patients.
-</li>
-<p><br></p>
-<li>
-<b>Discussion session</b> – consider the following hypothetical clinical
-research questions (based on real-world examples). We’re interested in
-how you would go about answering these questions using a clinical trial
-(adaptive or otherwise)! What solutions might there be and what are the
-pros/cons?
-</li>
-<p><br></p>
-<p><em>We want to test whether a new experimental treatment T is better
-than a control treatment C in population P. The primary endpoint EP1 of
-interest is a time-to-event (TTE) endpoint (e.g. time-to-response). We
-are also interested in the event rates - measured by a binary endpoint
-EP2 - as well as a continuous biomarker EP3 that is expected to give an
-early signal of a treatment effect.</em></p>
-<p><em>The current plan is to have a first interim analysis (IA 1) after
-n<sub>1</sub> patients had a follow-up of at least 12 months. Another
-interim analysis (IA 2) is planned when biomarker data is available for
-n<sub>2</sub> patients. The biomarker EP is measured 3 months after
-randomization. The final analysis should take place when n<sub>3</sub>
-patients have been followed up for at least 6 months.</em></p>
-<p><em>Question 1: How do we best control the familywise error rate
-(FWER)?</em></p>
-<p><em>Question 2: Assume that recruitment was much faster than expected
-and that</em></p>
-<p><em>a) IA 1 now coincides with IA 2, or </em></p>
-<p><em>b) IA 1, IA 2 and final analysis coincide. </em></p>
-<p><em> What are the implications on the FWER and the design overall?
-</em></p>
-</ol>
-</div>
+
+<li><b>Research/methodology</b> -- statistical methodology and their application to adaptive designs for clinical trials, including multiple testing procedures. We particularly welcome contributions on the topics of a) early phase trials and b) software for adaptive designs.</li> <br>
+
+<li><b>Real-life case studies</b> -- practical examples of the challenges of implementing adaptive designs in real-life. This could include issues around communicating the design and results of adaptive designs to both clinicians and patients.</li> <br>
+
+<li><b>Discussion session</b> -- consider the following hypothetical clinical research questions (based on real-world examples). We're interested in how you would go about answering these questions using a clinical trial (adaptive or otherwise)! What solutions might there be and what are the pros/cons?</li> <br>
+
+<em>We want to test whether a new experimental treatment T is better than a control treatment C in population P. The primary endpoint EP1 of interest is a time-to-event (TTE) endpoint (e.g. time-to-response). We are also interested in the event rates - measured by a binary endpoint EP2 - as well as a continuous biomarker EP3 that is expected to give an early signal of a treatment effect.</em>
+
+<em>The current plan is to have a first interim analysis (IA 1) after n<sub>1</sub> patients had a follow-up of at least 12 months. Another interim analysis (IA 2) is planned when biomarker data is available for n<sub>2</sub> patients. The biomarker EP is measured 3 months after randomization. The final analysis should take place when n<sub>3</sub> patients have been followed up for at least 6 months.</em>
+
+<em>Question 1: How do we best control the familywise error rate (FWER)?</em>
+
+<em>Question 2: Assume that recruitment was much faster than expected and that</em>
+
+<em>a) IA 1 now coincides with IA 2, or </em>
+
+<em>b) IA 1, IA 2 and final analysis coincide. </em>
+
+<em> What are the implications on the FWER and the design overall? </em>
+
+</ol-->
 
 
 

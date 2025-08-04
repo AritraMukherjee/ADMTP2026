@@ -33,7 +33,7 @@ h1.title {
 
 <hr>
 
-Registration for the workshop is now closed.
+Registration for the workshop will start from January 5, 2026.
 
 <br>
 
@@ -41,32 +41,23 @@ Registration for the workshop is now closed.
 
 <hr>
 
-Registration for the conference and short course is now closed.
+Registration for the conference and short course will start from January 5, 2026. More information will be shared shortly.
 
 **Conference Registration fees:** €50
 
-**Bayesian Adaptive Trials short course registration fees** (further details about the course can be found [here](https://admtp.github.io/ADMTP2025/course.html))
+**Short course registration fees** (further details about the course can be found [here](https://admtp.github.io/ADMTP2026/course.html))
 <ul>
-  <li>Industry/Commercial Registration: €600</li>
-  <li>Academic/Public sector/Charity Registration: €450</li>
-  <li>Postgraduate Student Registration: €250</li>
+  <li> Registration Fees for a single course: €175   </li>
+  <li> Registration Fees for both courses: €300   </li>
 </ul>
 
 <br>
 
 
-## Payment Instructions
-
-<hr>
-
-After completing the registration form, you will receive an email with payment instructions. Please ensure that the payment is made by the specified deadline to secure your registration. Also, when using the online payment system please use the participant name (rather than company/institution name) to help with payment confirmation. 
-
-<br>
-
 ## Contact Information
 
 <hr>
 
-If you have any questions or need further assistance regarding registration, please contact us at [david.robertson@mrc-bsu.cam.ac.uk](mailto:david.robertson@mrc-bsu.cam.ac.uk).
+If you have any questions or need further assistance regarding registration, please contact us at [aritra.mukherjee@newcastle.ac.uk](mailto:aritra.mukherjee@newcastle.ac.uk).
 
 We look forward to welcoming you to the conference!
