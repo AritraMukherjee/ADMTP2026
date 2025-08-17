@@ -24,10 +24,10 @@ library(png)      # If images are PNGs
 library(grid)     # For rasterGrob    
 
 # Load the images
-imgSci1 <- readPNG("images/RahulBhattacharya.png")
-imgSci2 <- readPNG("images/SatrajitRoychoudhury.png")
-imgSci3 <- readPNG("images/AlexSverdlov.png")
-imgSci4 <- readPNG("images/HongjianZhu.png")
+imgSci1 <- readPNG("images/SatrajitRoychoudhury.png")
+imgSci2 <- readPNG("images/AlexSverdlov.png")
+imgSci3 <- readPNG("images/HongjianZhu.png")
+imgSci4 <- readPNG("images/RahulBhattacharya.png")
 
 # Convert to grobs
 grob1 <- rasterGrob(imgSci1, interpolate = TRUE)
@@ -35,8 +35,8 @@ grob2 <- rasterGrob(imgSci2, interpolate = TRUE)
 grob3 <- rasterGrob(imgSci3, interpolate = TRUE)
 grob4 <- rasterGrob(imgSci4, interpolate = TRUE)
 
-imgOrg1 <- readPNG("images/AritraMukherjee.png")
-imgOrg2 <- readPNG("images/AyonMukherjee.png")
+imgOrg2 <- readPNG("images/AritraMukherjee.png")
+imgOrg1 <- readPNG("images/AyonMukherjee.png")
 imgOrg3 <- readPNG("images/JamesWason.png")
 
 # Convert to grobs
@@ -46,57 +46,58 @@ grob7 <- rasterGrob(imgOrg3, interpolate = TRUE)
 
 
 # Wrap each grob in a plot with text underneath
+
 p1 <- ggdraw() +
   draw_grob(grob1, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
-  draw_label("Prof. Rahul Bhattacharya", 
-             y = 0.16, size = 12, hjust = 0.5) +
-  draw_label("Professor in Statistics \nCalcutta University, India",
-             y = 0.1, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
-  theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
-
-p2 <- ggdraw() +
-  draw_grob(grob2, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
   draw_label("Dr. Satrajit Roychoudhury", 
              y = 0.16, size = 12, hjust = 0.5) +
   draw_label("Executive Director and Head \nStatistical Research and Innovation \n Pfizer, USA",
              y = 0.07, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
   theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
 
-p3 <- ggdraw() +
-  draw_grob(grob3, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
+p2 <- ggdraw() +
+  draw_grob(grob2, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
   draw_label("Dr. Alex Sverdlov", 
              y = 0.16, size = 12, hjust = 0.5) +
   draw_label("Senior Director, Statistical Scientist \n Novartis, USA",
              y = 0.1, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
   theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
 
-p4 <- ggdraw() +
-  draw_grob(grob4, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
+p3 <- ggdraw() +
+  draw_grob(grob3, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
   draw_label("Dr. Hongjian Zhu", 
              y = 0.16, size = 12, hjust = 0.5) +
   draw_label("SVP, Global Head of Statistics \nand Data Science \n SystImmune Inc.",
              y = 0.07, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
   theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
 
+p4 <- ggdraw() +
+  draw_grob(grob4, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
+  draw_label("Prof. Rahul Bhattacharya", 
+             y = 0.16, size = 12, hjust = 0.5) +
+  draw_label("Professor in Statistics \nCalcutta University, India",
+             y = 0.1, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
+  theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
 
 
 
 
 # Wrap each grob in a plot with text underneath
-p5 <- ggdraw() +
-  draw_grob(grob5, x = 0.05, y = 0.19, width = 0.9, height = 0.8) +
-  draw_label("Dr. Aritra Mukherjee", 
-             y = 0.16, size = 12, hjust = 0.5) +
-  draw_label("Research Associate \nNewcastle University",
-             y = 0.1, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
-  theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
 
-p6 <- ggdraw() +
-  draw_grob(grob6, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
+p5 <- ggdraw() +
+  draw_grob(grob5, x = 0.05, y = 0.2, width = 0.9, height = 0.8) +
   draw_label("Dr. Ayon Mukherjee", 
              y = 0.16, size = 12, hjust = 0.5) +
   draw_label("Director and Head \n of Biostatistics \n Eli Lilly",
              y = 0.07, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
+  theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
+
+p6 <- ggdraw() +
+  draw_grob(grob6, x = 0.05, y = 0.19, width = 0.9, height = 0.8) +
+  draw_label("Dr. Aritra Mukherjee", 
+             y = 0.16, size = 12, hjust = 0.5) +
+  draw_label("Research Associate \nNewcastle University",
+             y = 0.1, size = 8, hjust = 0.5,fontface = "italic",color = "gray40") +
   theme(plot.margin = margin(0, 0.2, 0, 0.2, "in")) # adds spacing around
 
 p7 <- ggdraw() +

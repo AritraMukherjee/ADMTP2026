@@ -77,17 +77,17 @@ We are delighted to announce the next annual workshop of the joint working group
 **When:** The workshop will run from 2nd to 3rd June 2026 with pre-conference courses on 1st June 2026.
 
 
-**Short course:** There will be pre-workshop short courses on *Practitioner’s View of Adaptive Designs* and *Designing better trials: Advanced randomization methods for modern clinical research* on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). 
+**Short course:** There will be pre-workshop short courses on <ul> <li>*Practitioner’s View of Adaptive Designs* and </li>  <li>*Designing better trials: Advanced randomization methods for modern clinical research*</li> on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). 
 
 **Abstract submission:** Abstract submissions will start from mid September 2025.
 
 **Registration:** Registration will open from January 5, 2026.
 
-**Scientific Committee:** Rahul Bhattacharya (Department of Statistics, University of Calcutta), Satrajit Roychoudhury (Pfizer), Alex Sverdlov (Novartis), Hongjian Zhu (Systimmune).
+**Scientific Committee:** Satrajit Roychoudhury (Pfizer), Alex Sverdlov (Novartis), Hongjian Zhu (Systimmune), Rahul Bhattacharya (Department of Statistics, University of Calcutta).
 
-**Organising Committee:** Aritra Mukherjee (PHSI, Newcastle University) , Ayon Mukherjee (Eli Lilly), James Wason (PHSI, Newcastle University).
+**Organising Committee:** [Ayon Mukherjee](mailto: ayon.mukherjee@lilly.com) (Eli Lilly), [Aritra Mukherjee](mailto:aritra.mukherjee@newcastle.ac.uk) (PHSI, Newcastle University) , [James Wason](mailto:james.wason@newcastle.ac.uk) (PHSI, Newcastle University).
 
-**Contact:** If you have any questions about the workshop, please e-mail [Aritra Mukherjee](mailto:aritra.mukherjee@ncl.ac.uk).
+**Contact:** If you have any questions about the workshop, please e-mail [Aritra Mukherjee](mailto:aritra.mukherjee@newcastle.ac.uk).
 
 
 $$\\[0.1cm]$$

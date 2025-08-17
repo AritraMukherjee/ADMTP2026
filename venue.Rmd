@@ -41,13 +41,13 @@ h1.title {
 
 <br/>
 
-<b>
 
-Urban Sciences Building<br>
+
+[Urban Sciences Building](https://maps.app.goo.gl/2Se8kQMLCoSiuY9H9)<br>
 1 Science Square<br>
 Newcastle Helix<br>
 Newcastle upon Tyne<br>
 United Kingdom <br>
 NE4 5TG
-</b>
+
  
