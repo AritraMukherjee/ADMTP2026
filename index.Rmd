@@ -49,7 +49,7 @@ h1.title {
   background-color: #ADD8E6 
 }
 
-</style>
+</style> 
 
 ```{=html}
 <head>
@@ -77,7 +77,7 @@ We are delighted to announce the next annual workshop of the joint working group
 **When:** The workshop will run from 2nd to 3rd June 2026 with pre-conference courses on 1st June 2026.
 
 
-**Short course:** There will be pre-workshop short courses on <ul> <li>*Practitioner’s View of Adaptive Designs* and </li>  <li>*Designing better trials: Advanced randomization methods for modern clinical research*</li> on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). 
+**Short course:** There will be pre-workshop short courses on <ul> <li>*Practitioner’s View of Adaptive Designs* and </li>  <li>*Designing better trials: Advanced randomization methods for modern clinical research*</li> on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). </ul>
 
 **Abstract submission:** Abstract submissions will start from mid September 2025.
 
