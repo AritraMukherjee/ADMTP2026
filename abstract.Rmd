@@ -5,34 +5,35 @@ output:
     theme: cosmo
 ---
 
+```{=html}
 <style type="text/css">
-body {
-  background-image: url("coming_soon.jpg");
-  background-position: center top;
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
 h1.title {
   font-size: 36px;
   color: DarkRed;
   text-align: center;
 }
+</style>
+```
 
-/* Center the GIF */
-.centered-gif {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+Please use the [link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h5U3mMXPcnlPhMCUpBSHk0tURU82MTFQVzhOMDlRR0pIOE9BRFZQTU1YMy4u) or scan the QR code given below to submit your abstract.
+
+
+<br/>
+
+<img id="Abstract_Submission" src="images/QRCode for Abstract Submission for ADMTP 2026.png"  width="300" height="300">
+<style type="text/css">
+    #Abstract_Submission {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
 </style>
 
-<!-- GIF with class for styling -->
-<img src="images/coming_soon3.gif" class="centered-gif" alt="Coming Soon GIF">
+<br/>
 
 
+The last date for submission is <b>31<sup>st</sup> January 2026</b>. 
+
+If you have any queries, please reach out to [Aritra Mukherjee](mailto:aritra.mukherjee@newcastle.ac.uk). We look forward to receive your submission!
 
 <!--## Deadline-->
 
