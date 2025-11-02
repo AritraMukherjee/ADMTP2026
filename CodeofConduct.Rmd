@@ -1,0 +1,50 @@
+---
+title: "Statement on proper conduct"
+output:
+  html_document:
+    theme: cosmo
+---
+
+<!-- <style type="text/css"> -->
+
+<!-- body { -->
+
+<!--  background-image: url("coming_soon.jpg"); -->
+
+<!--  background-position: center top; -->
+
+<!--  background-size: 100% auto; -->
+
+<!-- } -->
+
+<!-- </style>  -->
+
+
+```{=html}
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+```
+
+
+
+<hr>
+
+We are committed to fostering a professional and inclusive environment at all times. We expect all participants to adhere to the principles outlined below:
+
+<ul>
+  <li> <b>Scientific and Ethical Integrity:</b> We prioritise scientific rigour and ethical conduct in all aspects of our work. We encourage open and honest communication, adherence to best practices, and the highest standards of research integrity.   </li>
+  <li> <b>Respectful Conduct:</b> We promote a culture of respect and inclusivity. We value and embrace the diversity of our community and are committed to treating all individuals with dignity and respect. We reject discrimination or harassment based on gender, gender identity and expression, age, sexual orientation, disability, physical appearances, race, religion (or lack thereof), or beliefs.   </li>
+  <li> <b>Considerate Behaviour:</b> We expect all participants to engage in considerate and professional behaviour in their speech and actions. This includes being mindful of the impact of our words and actions on others, actively listening, and fostering an environment that encourages collaboration and mutual respect. </li> 
+  <li> <b>Zero Tolerance for Harassment:</b> We have a zero-tolerance policy for any form of demeaning, discriminatory, or harassing behaviour or speech. Such behaviour includes, but is not limited to, verbal or written abuse, intimidation, unwanted advances, offensive jokes, or derogatory comments. We encourage individuals who experience or witness such behaviour to report it promptly.</li>
+</ul>
+
+
+
+If you have any questions or concerns regarding the code of conduct or wish to report an incident, please contact James Wason at [james.wason@newcastle.ac.uk](mailto:james.wason@newcastle.ac.uk).
+<br>
+ 

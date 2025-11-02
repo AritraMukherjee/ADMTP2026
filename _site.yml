@@ -22,6 +22,8 @@ navbar:
         href: registration.html
       - text: "Social events"
         href: social.html
+      - text: "Code of Conduct"
+        href: CodeofConduct.html
       
 output:
   html_document:
