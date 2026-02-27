@@ -19,6 +19,8 @@ output:
 
 <!-- </style>  -->
 
+
+
 ```{=html}
 <style type="text/css">
 h1.title {
@@ -28,16 +30,36 @@ h1.title {
 }
 </style>
 ```
-<!-- ![](images/coming_soon3.gif){width=100%} -->
 
-## City tour of Newcastle
+<br/>
 
-Details to be announced close to the event date.
+
+## Workshop dinner
+
+We are delighted to welcome all participants to the conference dinner to held at Dobson & Parnell on the evening of June 2, from 7pm onward. We look forward to bringing everyone together for an enjoyable evening of fine dining, connection, and celebration. Participants need to book their place in advance while registering for the event.
+
+<br>
+
+```{r echo=FALSE}
+# https://stackoverflow.com/questions/61313078/create-a-carousel-in-rmarkdown
+objpath <- file.path(getwd(),"images/carousel_dinner")
+slickR::slickR(
+    list.files(objpath,full.names = TRUE,pattern = 'jpg'),
+    height = 250,
+    width = '100%')
+```
+
 
 
 <br>
 
-## Workshop dinner
 
-Details to be announced close to the event date.
-<!--Payment is the responsibility of the participant.-->
+[Dobson & Parnell](https://www.dobsonandparnell.co.uk/)<br>
+21 Queen St<br>
+Newcastle upon Tyne<br>
+United Kingdom <br>
+NE1 3UG<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d305.3567382748149!2d-1.6065237469655063!3d54.96936682494843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70b77a8cf061%3A0xaccb405229643984!2sDobson%20and%20Parnell!5e0!3m2!1sen!2suk!4v1772193359307!5m2!1sen!2suk" width="300" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+ 
