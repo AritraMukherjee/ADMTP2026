@@ -20,6 +20,7 @@ h1.title {
 }
 </style>
 
+
 <style type="text/css">
   body{
   font-size: 12pt;
@@ -40,13 +41,19 @@ h1.title {
 .sponsor-level-gold {
   text-align: center;
   margin-bottom: 30px;
-  background-color: #D4AF37
+  background-color: #D4AF37, #ADD8E6 
 }
 
 .organizers {
+  text-align: left;
+  margin-bottom: 30px;
+  background-color: #FFFFFF
+}
+
+.sponsors {
   text-align: center;
   margin-bottom: 30px;
-  background-color: #ADD8E6 
+  background-color: #FFFFFF 
 }
 
 </style> 
@@ -79,7 +86,7 @@ We are delighted to announce the next annual workshop of the joint working group
 
 **Short course:** There will be pre-workshop short courses on <ul> <li>*Practitioner’s View of Adaptive Designs* and </li>  <li>*Designing better trials: Advanced randomization methods for modern clinical research*</li> on 1st June 2026, see [**here**](https://admtp.github.io/ADMTP2026/course.html). </ul>
 
-**Abstract submission:** Abstract submissions will start from mid September 2025.
+**Abstract submission:** Abstract submissions have now started. The last date for submission is January 31, 2026. 
 
 **Registration:** Registration will open from January 5, 2026.
 
@@ -91,28 +98,63 @@ We are delighted to announce the next annual workshop of the joint working group
 
 
 $$\\[0.1cm]$$
-
+<h3 style="color: DarkRed; text-align: left;">
 ### Organisers
 
 <hr>
 
 ```{=html}
 <div class="organizers">
+    
     <div class="sponsor">
-        <a href="https://www.ibs-roes.org/"; target=_blank">
-        <img src="logos/ROeS.png" alt="ROeS" width="160">
+        <a href="http://www.biometrische-gesellschaft.de/en/home.html"; target=_blank">
+        <img src="logos/IBS_DR.PNG" alt="IBS" width="150">
         </a>
     </div>
+  <div class="sponsor">
+        <a href="https://www.ibs-roes.org/"; target=_blank">
+        <img src="logos/ROeS.png" alt="ROeS" width="150">
+        </a>
+    </div>
+    <div class="sponsor">
+    <a href="https://www.ncl.ac.uk/" target="_blank">
+        <img src="logos/UN.png" alt="UN" width="300">
+    </a>
+  </div>
+    
+    
+</div>
+```
+
+
+### Sponsors
+
+<hr>
+
+```{=html}
+<div class="sponsors">
     <div class="sponsor">
         <a href="http://www.biometrische-gesellschaft.de/en/home.html"; target=_blank">
         <img src="logos/IBS_DR.PNG" alt="IBS" width="145">
         </a>
     </div>
+    
+   <div class="sponsor">
+        <a href="https://cytel.com/"; target=_blank">
+        <img src="logos/cytel.png" alt="Cytel" width="160">
+        </a>
+    </div> 
     <div class="sponsor">
-        <a href="https://www.ncl.ac.uk/"; target=_blank">
-        <img src="logos/UN.png" alt="UN" width="150">
+        <a href="https://intindstat.org/"; target=_blank">
+        <img src="logos/IISA.png" alt="IISA" width="160">
+        </a>
+    </div> 
+    <div class="sponsor">
+        <a href="https://www.ibs-roes.org/"; target=_blank">
+        <img src="logos/ROeS.png" alt="ROeS" width="150">
         </a>
     </div>
+    
     
 </div>
 ```

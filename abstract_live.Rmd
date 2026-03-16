@@ -1,0 +1,101 @@
+---
+title: "Abstract submission"
+output:
+  html_document:
+    theme: cosmo
+---
+
+```{=html}
+<style type="text/css">
+h1.title {
+  font-size: 36px;
+  color: DarkRed;
+  text-align: center;
+}
+</style>
+```
+
+Please use the [link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h5U3mMXPcnlPhMCUpBSHk0tURU82MTFQVzhOMDlRR0pIOE9BRFZQTU1YMy4u) or scan the QR code given below to submit your abstract. Authors are kindly requested to keep abstracts within a maximum of <b>300 words</b>. 
+
+
+<br/>
+
+<img id="Abstract_Submission" src="images/QRCode for Abstract Submission for ADMTP 2026.png"  width="300" height="300">
+<style type="text/css">
+    #Abstract_Submission {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
+</style>
+
+<br/>
+
+
+The last date for submission is <b>31<sup>st</sup> January 2026</b>. 
+
+If you have any queries, please reach out to [Aritra Mukherjee](mailto:aritra.mukherjee@newcastle.ac.uk). We look forward to receive your submission!
+
+<!--## Deadline-->
+
+<!--hr-->
+
+<!--Abstract submissions are now closed. -->
+
+<!--br-->
+
+<!--## Topics-->
+
+<!--hr>
+
+<ol>
+
+<li><b>Research/methodology</b> -- statistical methodology and their application to adaptive designs for clinical trials, including multiple testing procedures. We particularly welcome contributions on the topics of a) early phase trials and b) software for adaptive designs.</li> <br>
+
+<li><b>Real-life case studies</b> -- practical examples of the challenges of implementing adaptive designs in real-life. This could include issues around communicating the design and results of adaptive designs to both clinicians and patients.</li> <br>
+
+<li><b>Discussion session</b> -- consider the following hypothetical clinical research questions (based on real-world examples). We're interested in how you would go about answering these questions using a clinical trial (adaptive or otherwise)! What solutions might there be and what are the pros/cons?</li> <br>
+
+<em>We want to test whether a new experimental treatment T is better than a control treatment C in population P. The primary endpoint EP1 of interest is a time-to-event (TTE) endpoint (e.g. time-to-response). We are also interested in the event rates - measured by a binary endpoint EP2 - as well as a continuous biomarker EP3 that is expected to give an early signal of a treatment effect.</em>
+
+<em>The current plan is to have a first interim analysis (IA 1) after n<sub>1</sub> patients had a follow-up of at least 12 months. Another interim analysis (IA 2) is planned when biomarker data is available for n<sub>2</sub> patients. The biomarker EP is measured 3 months after randomization. The final analysis should take place when n<sub>3</sub> patients have been followed up for at least 6 months.</em>
+
+<em>Question 1: How do we best control the familywise error rate (FWER)?</em>
+
+<em>Question 2: Assume that recruitment was much faster than expected and that</em>
+
+<em>a) IA 1 now coincides with IA 2, or </em>
+
+<em>b) IA 1, IA 2 and final analysis coincide. </em>
+
+<em> What are the implications on the FWER and the design overall? </em>
+
+</ol-->
+
+title: "abstract_submission"
+output: html_document
+date: "2026-03-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

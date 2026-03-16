@@ -14,6 +14,8 @@ navbar:
       href: course.html
     - text: "Workshop venue"
       href: venue.html
+    - text: "Program Schedule"
+      href: Program_Schedule.pdf
     - text: "Workshop info"
       menu:
       - text: "Abstract submission"
